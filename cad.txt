@@ -1,6 +1,9 @@
 ## Maximum hourly landing capacity
 # OMAE FIR
-
+OMDB,37
+OMAA,40
+OMDW,20
 # OTDF FIR
-
+OTHH,60
 # OOMM FIR
+OOMS,20
